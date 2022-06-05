@@ -1,0 +1,21 @@
+{
+    "name": "calculator",
+    "version": "0.1.0",
+    "description": "My application based on react-bond.",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "react-bond-hot src/index.tsx",
+        "build": "tsc"
+    },
+    "author": "",
+    "license": "MIT",
+    "dependencies": {
+        "react": "x.x.x",
+        "react-bond": "x.x.x"
+    },
+    "devDependencies": {
+        "@types/node": "x.x.x",
+        "@types/react": "x.x.x",
+        "typescript": "4.x.x"
+    }
+}
